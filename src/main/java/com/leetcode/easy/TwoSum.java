@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 1. Two Sum (Easy);
+ * 1. Two Sum (Easy- Ready to merge);
  * 
  *
  */
